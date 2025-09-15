@@ -1,2 +1,3 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Christian Nyamekye. I’m a software engineer, entrepreneur, and maker. I grew up in Ghana and now study Computer Science at Dartmouth, where I’ve been building projects that merge accessibility, AI, and design. 
+I love anime and engineering quirks—often seeing connections between the two—and I’m always tinkering with side projects, whether it’s building assistive tech like GARB or experimenting with new startup ideas. 
+I also have a soft spot for exploring food markets (Stanley Market in Hong Kong was a favorite), though I’m still working on acquiring a taste for overly spicy food.
